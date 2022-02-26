@@ -4,13 +4,13 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>My_Account__c.Email__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
+       <readable>true</readable>
+        </fieldPermissions>
+        <fieldPermissions>
         <editable>false</editable>
         <field>My_Account__c.field1__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
+        <readable>true</readable>
+         </fieldPermissions>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
         <enabled>true</enabled>
