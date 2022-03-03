@@ -3,13 +3,28 @@
     <custom>true</custom>
     <fieldPermissions>
         <editable>false</editable>
-        <field>My_Account__c.Email__c</field>
-        <readable>true</readable>
+        <field>my_class__c.core__c</field>
+        <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>My_Account__c.field1__c</field>
-        <readable>true</readable>
+        <field>my_class__c.lanuage__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>my_class__c.program__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>my_class__c.subject__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>my_class__c.tool__c</field>
+        <readable>false</readable>
     </fieldPermissions>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
